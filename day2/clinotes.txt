@@ -63,3 +63,8 @@ git stauts = checks all current files
 :q = quits vim
 git branch = shows all the branches
 git switch or (git switch -c featurename to switch and create)= switches to the branch you want
+git log = checks commits
+
+git branch -m main = rename to main
+
+git merge feature
