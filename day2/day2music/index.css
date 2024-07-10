@@ -1,0 +1,30 @@
+.newcontainer {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    padding: 5vh 10vh;;
+    font-size: 1.2rem;
+}
+
+.newcontainer button {
+    margin-top: 3vh;
+}
+
+body {
+    background-color: hsl(220, 5%, 89%,0.3);
+}
+
+.songscontainer {
+padding: 9vh 0vh;
+}
+
+.row {
+    padding-top: 5vh;
+}
+
+footer, footer p {
+    background-color: white;
+    padding-top: 3vh;
+    margin: 0;
+    padding: 2vh 0vh;
+}

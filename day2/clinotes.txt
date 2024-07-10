@@ -1,0 +1,55 @@
+ls = list
+
+-a = adding this shows hidden files (files that start with .)
+
+cd .. = change directy to parent folder
+
+~ = tilda
+
+Omyzish = software update
+
+help = manual
+man = manual - tells you what options there are (mac)
+
+mkdir = make directioy
+
+touch = create file
+
+pwd = print working directoy - current location you are in
+
+rm = remove file
+
+cp = copy file (cp index.css ../ -> 2 folders up)
+
+mv = move file.
+
+mv = can use to rename too, just dont add destination (aka mv apple.js banana.js)
+
+can use ">" to funnel output into a file
+
+cat = read file data
+
+rm -rf = delete the directiy
+
+/tmp = temp folder
+
+curl = see html of website?
+
+clear= deletes everything in console
+
+code = opens html for website
+
+sed = stream editor (s/many/1/g) -> looks for many and replaces with 1 and g is global so all of it
+
+nano = text editor
+
+chmod = ?
+
+cat $PATH = shows all directiories i can access on machine
+
+code = opens a file in vs
+
+---------------------------
+git add index.html = tracks html file in git
+
+
