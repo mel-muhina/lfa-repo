@@ -51,5 +51,9 @@ code = opens a file in vs
 
 ---------------------------
 git add index.html = tracks html file in git
+git commit -m = commits a file with message
 
+when doing commit = write using "This commit will..."
+Over write than underwrite
 
+: = quits vim
